@@ -3,7 +3,7 @@
 
   <remote name="github" fetch="https://github.com/" />
   <project name="dl9pf/testlocal2" remote="github" path="meta-own-project" >
-    <copyfile src=".project-manifest.xml" dest="../.repo/local_manifests/testlocal2.xml" />
+    <copyfile src=".project-manifest.xml" dest=".repo/local_manifests/testlocal2.xml" />
   </project>
 
 </manifest>
